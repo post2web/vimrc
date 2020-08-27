@@ -2,5 +2,8 @@
 
 ```bash
 https://github.com/post2web/vimrc.git
-cp -r vimrc/* ~/
+cp -r .vim ~/
+cp .vimrc ~/
+mkdir -p ~/.config
+cp -r .config ~/
 ```
